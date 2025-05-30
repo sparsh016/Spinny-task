@@ -1,4 +1,4 @@
-# Spinny-task (check main read me)
+# Spinny-task
 
 **Django Shopping Cart API:**
 
